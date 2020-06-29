@@ -1,0 +1,20 @@
+*{
+  font-family:Cambria;
+}
+header{
+  font-size:20px;
+  font-weight:bold;
+}
+#navbar{
+  display:flex;
+  flex-direction:row;
+  position:left;
+  justify-content:space-evenly;
+  width:auto;
+  hieght:auto;
+  color:purple;
+  background:linear-gradient(45deg,#FFCCCC,#CCFFFF);
+}
+a{
+  text-decoration:none;
+}
